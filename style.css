@@ -69,7 +69,7 @@ nav ul li a:hover{
 /*header ends*/
 /*banner starts*/
 #banner-id{
-    background-image: url(images/banner.jpg);
+    background-image: url(./images/banner.jpg);
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
